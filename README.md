@@ -9,3 +9,4 @@ HTML
 CSS
 PHP
 Javascript
+Canvasjs
