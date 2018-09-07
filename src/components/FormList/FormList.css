@@ -1,0 +1,11 @@
+td {
+    cursor: pointer;
+}
+
+.disabled {
+background-color: grey;
+}
+
+.disabled:hover {
+    background: grey !important;
+}

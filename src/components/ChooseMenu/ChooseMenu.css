@@ -1,0 +1,6 @@
+.item:hover {
+    color: white;
+    background-color: #3E98FF;
+    transition: background-color .3s ease;
+    cursor: pointer;
+}

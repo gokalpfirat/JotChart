@@ -1,0 +1,93 @@
+/*html, body {*/
+    /*height: 100%;*/
+/*}*/
+
+.full-height {
+    /*height: 100vh;*/
+}
+
+.list-item {
+    border-top: 1px solid #4a5361;
+    background: #545f6f;
+    cursor: pointer;
+}
+
+.list-item:hover {
+    background: #0293e2;
+}
+
+.in-menu {
+    background: #2f333a;
+}
+
+.sidebar {
+    height: 90vh;
+    background: #2f333a;
+    color: #fff;
+}
+
+.topbar {
+    height: 10vh;
+
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    background: #3e4652;
+}
+
+.appWizard {
+    background: #3e4652;
+    color: #fff;
+}
+
+.borderWizard {
+    border-top: 1px solid #495261!important;
+    border-bottom: 1px solid #333a43!important;
+}
+
+.borderBottom {
+    border-bottom: 1px solid #333a43!important;
+    background: #545f6f;
+}
+
+.buttons:hover {
+    background: #0293e2;
+    cursor: pointer;
+}
+
+.buttons {
+    border-right: 1px solid #495261!important;
+    display: inline-block;
+    width: 50%;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.border-bottom{
+    border-bottom: 1px solid black;
+}
+
+.w-30{
+    width: 30% !important;
+}
+
+.selected {
+    background: #0293e2;
+}
+
+.btn-secondary.focus{
+    box-shadow: none;
+}
+
+img {
+    width: 4%;
+    height: auto;
+}
